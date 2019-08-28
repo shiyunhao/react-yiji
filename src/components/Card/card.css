@@ -1,0 +1,45 @@
+.Card {
+  position: relative;
+}
+.Card + .Card {
+  margin-top: 10px;
+}
+.Card > div:first-child img {
+  display: block;
+  width: 100%;
+}
+.Card > .card_message {
+  position: absolute;
+  z-index: 3;
+}
+.Card > .card_message {
+  position: absolute;
+  z-index: 3;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+.Card .card_message span {
+  color: #fff;
+}
+.Card .card_message > div:first-child {
+  text-align: right;
+}
+.Card .card_message > div:first-child > span {
+  font-size: 14px;
+  background-color: #af1c14;
+  padding: 5px 5px 5px 20px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: rgb(201, 201, 201);
+}
+.Card .card_message > div:last-child {
+  text-align: right;
+}
+.Card .card_message > div:last-child span {
+  margin: 10px;
+}

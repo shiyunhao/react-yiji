@@ -1,0 +1,67 @@
+.News {
+  overflow: hidden;
+}
+.news-container {
+  overflow: hidden;
+  margin-top: 5px;
+}
+.news-container > div {
+  width: 200vw;
+  display: flex;
+  transition: all 1s;
+}
+.news-container .show-now {
+  width: 100vw;
+  overflow-y: auto;
+  height: 80vh;
+  padding-bottom: 8vh;
+}
+.news-container .show-now > div:first-child {
+  display: flex;
+  background-color: #ccc;
+}
+.news-container span {
+  font-size: 16px;
+  width: 50%;
+  color: #000;
+  padding: 5px;
+}
+.news-container .show-now > div:first-child span:first-child {
+  text-align: right;
+  background: linear-gradient(
+    to left,
+    rgb(238, 29, 29),
+    rgba(160, 76, 76, 0.24)
+  );
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-right: 10px;
+}
+.news-container .show-now > div:first-child span:last-child {
+  padding-left: 10px;
+}
+
+/* will */
+.news-container .show-will {
+  width: 100vw;
+  overflow-y: auto;
+  height: 80vh;
+  padding-bottom: 8vh;
+}
+.news-container .show-will > div:first-child {
+  display: flex;
+  background-color: #ccc;
+}
+.news-container .show-will > div:first-child > span:first-child {
+  text-align: right;
+}
+.news-container .show-will > div:first-child > span:last-child {
+  background: linear-gradient(
+    to left,
+    rgba(160, 76, 76, 0.24),
+    rgb(238, 29, 29)
+  );
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-left: 15px;
+}

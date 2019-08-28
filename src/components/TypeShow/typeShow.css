@@ -1,0 +1,39 @@
+.TypeShow {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.TypeShow > div:first-child {
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  padding: 10px 20px;
+  align-items: center;
+  color: #000;
+  opacity: 0.9;
+  flex-shrink: 0;
+}
+.TypeShow .typeShowList {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-grow: 1;
+  overflow-y: auto;
+  height: 80vh;
+  padding-bottom: 8vh;
+}
+.TypeShow .nothing {
+  display: flex;
+  font-size: 16px;
+  background-color: rgba(211, 210, 210, 0.829);
+  align-items: center;
+  height: 90vh;
+  text-align: center;
+}
+.TypeShow .nothing span {
+  display: block;
+  width: 100%;
+  text-align: center;
+}

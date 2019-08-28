@@ -1,0 +1,279 @@
+.OwnMessage {
+  overflow: hidden;
+  height: 93vh;
+}
+.OwnMessage > div {
+  width: 300vw;
+  display: flex;
+  position: relative;
+}
+.OwnMessage .own-show,
+.OwnMessage .own-change,
+.OwnMessage .own-install {
+  width: 100vw;
+}
+.OwnMessage .own-top {
+  background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User-bg_01.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 10px;
+}
+.OwnMessage .own-top > div {
+  margin: 10px 0;
+}
+.OwnMessage .own-top > div:first-child {
+  text-align: right;
+}
+.OwnMessage .own-top > div:first-child span {
+  color: rgb(214, 213, 213);
+  font-size: 20px;
+}
+.OwnMessage .own-top > div:nth-child(2) {
+  width: 2.6rem;
+  margin: 0 auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.OwnMessage .own-top > div:nth-child(2) img {
+  width: 100%;
+  display: block;
+}
+.OwnMessage .own-top > div:nth-child(3) {
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+}
+.OwnMessage .own-top > div:nth-child(4) {
+  display: flex;
+  width: 4.6rem;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.OwnMessage .own-top > div:nth-child(4) span {
+  display: block;
+  font-size: 14px;
+  color: #fff;
+  text-align: center;
+}
+
+.OwnMessage .own-middle > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.OwnMessage .own-middle > div:first-child span {
+  font-size: 16px;
+  padding: 5px;
+  margin: 8px 0;
+}
+.OwnMessage .own-middle > div:first-child span:last-child {
+  background-color: #dd4f43;
+  color: #fff;
+  padding-left: 14px;
+  border-radius: 18px 0 0 18px;
+}
+.OwnMessage .own-middle > div:last-child {
+  display: flex;
+  padding: 0 5px;
+}
+.OwnMessage .own-middle > div:last-child img {
+  display: block;
+  width: 100%;
+}
+.OwnMessage .own-middle > div:last-child span {
+  font-size: 14px;
+  display: block;
+  padding: 5px;
+}
+
+.OwnMessage .own-footer > div:first-child {
+  display: flex;
+  background-color: #ccc;
+}
+.OwnMessage .own-footer > div:first-child span {
+  width: 50%;
+  padding: 5px;
+  font-size: 16px;
+}
+.OwnMessage .own-footer > div:first-child > span:first-child {
+  text-align: right;
+  padding-right: 15px;
+  border-radius: 0 15px 15px 0;
+  background: linear-gradient(to right, #ec9d95, rgb(214, 36, 36));
+}
+.OwnMessage .own-footer > div:last-child {
+  display: flex;
+}
+.OwnMessage .own-footer > div:last-child > div {
+  margin: 5px;
+  margin-right: 0;
+}
+.OwnMessage .own-footer > div:last-child img {
+  display: block;
+  width: 100%;
+}
+
+/* own-change */
+.OwnMessage .own-change,
+.OwnMessage .own-install {
+  background-color: #e0eaec;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 100vw;
+  z-index: 99;
+  transition: all 1s;
+  display: flex;
+  flex-direction: column;
+}
+.OwnMessage .own-change li,
+.OwnMessage .own-install li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.OwnMessage .own-change > div,
+.OwnMessage .own-install > div {
+  background-color: #f1f1f1;
+  margin-bottom: 15px;
+  flex-shrink: 0;
+}
+.OwnMessage .own-change li + li,
+.OwnMessage .own-install li + li {
+  border-top: 1px solid #ccc;
+}
+.OwnMessage .own-change li > span {
+  font-size: 16px;
+}
+.OwnMessage .own-change li > div span {
+  font-size: 14px;
+}
+.OwnMessage .own-change > div:nth-child(3) p {
+  background-color: #bfc8cf;
+  color: #828a91;
+  font-size: 14px;
+  padding: 5px;
+  margin: 0;
+}
+.OwnMessage .own-change > div:first-child,
+.OwnMessage .own-install > div:first-child {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.OwnMessage .own-change > div:first-child span,
+.OwnMessage .own-install > div:first-child span {
+  font-size: 16px;
+}
+.OwnMessage .own-change > div:first-child img,
+.OwnMessage .own-install > div:first-child img {
+  width: 2rem;
+  margin-left: 3.5rem;
+}
+.OwnMessage .own-change > div li > div {
+  display: flex;
+  align-items: center;
+}
+.OwnMessage .own-change > div li > div img {
+  width: 60px;
+}
+.OwnMessage .own-change > div li > div > span {
+  color: #ccc;
+}
+.OwnMessage .own-change > div li > div > span:last-child {
+  padding-left: 10px;
+}
+.OwnMessage .own-change .privacy > div > span:first-child {
+  background-color: red;
+  border-radius: 50%;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 20px;
+}
+.OwnMessage .own-change > div:nth-child(3) {
+  margin-bottom: 0;
+}
+.OwnMessage .own-change > div:last-child {
+  background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/info1_02.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  flex-grow: 1;
+  background-color: #fff;
+  margin-bottom: 0;
+}
+
+/* own-install */
+.OwnMessage .own-install span {
+  font-size: 16px;
+}
+.OwnMessage .own-install > div:nth-child(3) {
+  margin-bottom: 0;
+}
+.OwnMessage .own-install > div:last-child {
+  background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/info1_02.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  flex-grow: 1;
+  text-align: center;
+  padding: 25% 0;
+  margin-bottom: 0;
+}
+.OwnMessage .own-install > div:last-child span {
+  background-color: #d12b1f;
+  border-radius: 10px;
+  padding: 5px 40px;
+  color: #fff;
+  text-align: center;
+}
+.OwnMessage .own-install > div:last-child p {
+  margin: 0;
+  font-size: 14px;
+  margin: 5px 0;
+}
+.OwnMessage .own-install .tureChange {
+  color: red;
+}
+.OwnMessage .showSwitch > span span {
+  margin: 0 5px;
+}
+.OwnMessage .own-change .mask {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background: none;
+}
+.OwnMessage .mask .dark {
+  background-color: rgba(59, 58, 58, 0.452);
+  height: 100vh;
+}
+.OwnMessage .mask .choice {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #e4e5e5;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+}
+.OwnMessage .mask .choice > div span {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  margin: 10px 0;
+}
+.OwnMessage .mask .choice > p {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  border-top: 1px solid red;
+}

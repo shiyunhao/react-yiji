@@ -1,0 +1,15 @@
+.NewsShow .swiper-container-news {
+  position: relative;
+}
+.NewsShow img {
+  width: 100%;
+}
+
+.TypeSwiper .swiper-slide {
+  width: 300px;
+}
+.TypeSwiper .swiper-slide img {
+  width: 100%;
+  display: block;
+  height: 115px;
+}
