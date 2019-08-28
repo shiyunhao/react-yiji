@@ -3,6 +3,7 @@ import Top from "../Top/Top";
 import "./recommend.css";
 import { connect } from "react-redux";
 import Card from "../Card/Card";
+import { NavLink } from "react-router-dom";
 class Recommend extends Component {
   state = {
     showWen: false
@@ -28,10 +29,18 @@ class Recommend extends Component {
 
     // map
     const zhanList = zhanShowLists.length
-      ? zhanShowLists.map(item => <Card {...item} key={item.id} />)
+      ? zhanShowLists.map(item => (
+          <NavLink to={`/articleDetails/${item.id}`} key={item.id}>
+            <Card {...item} />
+          </NavLink>
+        ))
       : "loading...";
     const wenList = wenShowLists.length
-      ? wenShowLists.map(item => <Card {...item} key={item.id} />)
+      ? wenShowLists.map(item => (
+          <NavLink key={item.id} to={`/articleDetails/${item.id}`}>
+            <Card {...item} />
+          </NavLink>
+        ))
       : "loading...";
     return (
       <div className="Recommend">

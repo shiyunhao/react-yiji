@@ -236,3 +236,7 @@
 .ArticleDetails-main .addComment > div:last-child span {
   margin-right: 10px;
 }
+
+.noMessage {
+  background-color: #fff;
+}

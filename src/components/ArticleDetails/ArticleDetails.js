@@ -47,6 +47,7 @@ class ArticleDetails extends Component {
   };
   render() {
     const { id } = this.props.match.params;
+    console.log(id);
     const { showLists } = this.props;
     const { showAll, showMap, showShare, showRecommend, val } = this.state;
 
@@ -263,7 +264,17 @@ class ArticleDetails extends Component {
         </div>
       </div>
     ) : (
-      <h1>来了，老弟</h1>
+      <div className="noMessage">
+        <div>
+          <span
+            className="iconfont icon-zuo"
+            onClick={() => {
+              this.props.history.go(-1);
+            }}
+          ></span>
+        </div>
+        <h1>资料待补充</h1>
+      </div>
     );
   }
 }

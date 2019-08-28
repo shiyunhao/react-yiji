@@ -173,7 +173,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -182,7 +182,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -191,7 +191,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -200,7 +200,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -378,7 +378,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -387,7 +387,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -396,7 +396,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -405,7 +405,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -583,7 +583,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -592,7 +592,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -601,7 +601,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -610,7 +610,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -790,7 +790,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -799,7 +799,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -808,7 +808,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -817,7 +817,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -996,7 +996,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -1005,7 +1005,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -1014,7 +1014,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -1023,7 +1023,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -1200,7 +1200,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -1209,7 +1209,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -1218,7 +1218,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -1227,7 +1227,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -1403,7 +1403,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -1412,7 +1412,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -1421,7 +1421,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -1430,7 +1430,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
@@ -1606,7 +1606,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p21",
@@ -1615,7 +1615,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p31",
@@ -1624,7 +1624,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         },
         {
           id: "p41",
@@ -1633,7 +1633,7 @@ const showLists = [
             "https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/xiao5_09.jpg",
           commentName: "阿德",
           commentId: "ade",
-          commentTime: "2019.8.27"
+          commentTime: "2019/8/27"
         }
       ]
     }
