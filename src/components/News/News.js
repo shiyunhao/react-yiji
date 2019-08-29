@@ -53,7 +53,7 @@ class News extends Component {
         <div>
           <NewsShow />
         </div>
-        <div style={{ height: "18vh" }}>
+        <div>
           <TypeSwiper />
         </div>
         <div className="news-container">

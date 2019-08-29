@@ -3,8 +3,12 @@
   height: 100vh;
   position: relative;
 }
+.Lead .swiper-slide {
+  width: 100vw;
+}
 .Lead .swiper-slide img {
   width: 100%;
+  display: block;
 }
 .Lead .swiper-slide:last-child > div {
   background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead6.jpg");
