@@ -14,7 +14,7 @@
   width: 100vw;
   overflow-y: auto;
   height: 80vh;
-  padding-bottom: 8vh;
+  padding-bottom: 7vh;
 }
 .news-container .show-now > div:first-child {
   display: flex;

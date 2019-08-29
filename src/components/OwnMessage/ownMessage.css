@@ -6,11 +6,25 @@
   width: 300vw;
   display: flex;
   position: relative;
+  height: 93vh;
 }
 .OwnMessage .own-show,
 .OwnMessage .own-change,
 .OwnMessage .own-install {
   width: 100vw;
+}
+.OwnMessage .own-show {
+  display: flex;
+  flex-direction: column;
+}
+.OwnMessage .own-show > div:first-child,
+.OwnMessage .own-show > div:nth-child(2) {
+  flex-shrink: 0;
+}
+.OwnMessage .own-show > div:last-child {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }
 .OwnMessage .own-top {
   background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User-bg_01.png");
@@ -28,6 +42,7 @@
 .OwnMessage .own-top > div:first-child span {
   color: rgb(214, 213, 213);
   font-size: 20px;
+  display: block;
 }
 .OwnMessage .own-top > div:nth-child(2) {
   width: 2.6rem;
@@ -89,6 +104,7 @@
 
 .OwnMessage .own-footer > div:first-child {
   display: flex;
+  flex-shrink: 0;
   background-color: #ccc;
 }
 .OwnMessage .own-footer > div:first-child span {
@@ -104,14 +120,19 @@
 }
 .OwnMessage .own-footer > div:last-child {
   display: flex;
+  flex-grow: 1;
 }
 .OwnMessage .own-footer > div:last-child > div {
-  margin: 5px;
+  padding: 5px;
+  width: 50%;
   margin-right: 0;
+  background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User_07.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
-.OwnMessage .own-footer > div:last-child img {
-  display: block;
-  width: 100%;
+.OwnMessage .own-footer > div:last-child > div:last-child {
+  background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User_09.png");
 }
 
 /* own-change */

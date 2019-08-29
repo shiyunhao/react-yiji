@@ -38,31 +38,41 @@ class Lead extends Component {
       <div className="Lead">
         <div className="swiper-container lead">
           <div className="swiper-wrapper">
-            <div className="swiper-slide">
-              <img
-                src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead1.jpg"
-                alt=""
-              />
-            </div>
-            <div className="swiper-slide">
-              <img
-                src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead2.jpg"
-                alt=""
-              />
-            </div>
-            <div className="swiper-slide">
-              <img
-                src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead3.jpg"
-                alt=""
-              />
-            </div>
-            <div className="swiper-slide">
-              <img
-                src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead4.jpg"
-                alt=""
-              />
-            </div>
-            <div className="swiper-slide">
+            <div
+              className="swiper-slide"
+              style={{
+                backgroundImage:
+                  'url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead1.jpg")'
+              }}
+            ></div>
+            <div
+              className="swiper-slide"
+              style={{
+                backgroundImage:
+                  'url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead2.jpg")'
+              }}
+            ></div>
+            <div
+              className="swiper-slide"
+              style={{
+                backgroundImage:
+                  'url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead3.jpg")'
+              }}
+            ></div>
+            <div
+              className="swiper-slide"
+              style={{
+                backgroundImage:
+                  'url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead4.jpg")'
+              }}
+            ></div>
+            <div
+              className="swiper-slide"
+              style={{
+                backgroundImage:
+                  'url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/lead5.jpg")'
+              }}
+            >
               <div>
                 <h4>-2019-8-23</h4>
                 <p>今日推送>></p>

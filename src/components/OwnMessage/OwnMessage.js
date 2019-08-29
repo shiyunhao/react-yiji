@@ -118,18 +118,8 @@ class OwnMessage extends Component {
                 <span>缓存</span>
               </div>
               <div>
-                <div>
-                  <img
-                    src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User_07.png"
-                    alt=""
-                  />
-                </div>
-                <div>
-                  <img
-                    src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User_09.png"
-                    alt=""
-                  />
-                </div>
+                <div></div>
+                <div></div>
               </div>
             </div>
           </div>
