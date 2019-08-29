@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5e5c636f242b0bf7aaf951c6f047337",
+    "revision": "08bae0f6a0d83ab7c51ca9a2db541ec4",
     "url": "/shiyunhao/react-yiji/index.html"
   },
   {
-    "revision": "686c3a9a120c7b1d900e",
+    "revision": "fd9db988f0947cbc6911",
     "url": "/shiyunhao/react-yiji/static/css/2.dce8a878.chunk.css"
   },
   {
-    "revision": "7ee02f5fa7c2ca5d1aaa",
+    "revision": "ccd3ad65dc87eef3492c",
     "url": "/shiyunhao/react-yiji/static/css/main.496b0c9a.chunk.css"
   },
   {
-    "revision": "686c3a9a120c7b1d900e",
-    "url": "/shiyunhao/react-yiji/static/js/2.2f194a1c.chunk.js"
+    "revision": "fd9db988f0947cbc6911",
+    "url": "/shiyunhao/react-yiji/static/js/2.ca3dbfb8.chunk.js"
   },
   {
-    "revision": "7ee02f5fa7c2ca5d1aaa",
-    "url": "/shiyunhao/react-yiji/static/js/main.3e766ec9.chunk.js"
+    "revision": "ccd3ad65dc87eef3492c",
+    "url": "/shiyunhao/react-yiji/static/js/main.c56780cc.chunk.js"
   },
   {
     "revision": "fdc9e794f91267172606",
