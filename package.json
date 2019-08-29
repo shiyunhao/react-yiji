@@ -11,7 +11,7 @@
     "redux": "^4.0.4",
     "swiper": "^4.5.0"
   },
-  "homepage": "https://github.com/shiyunhao/react-yiji",
+  "homepage": "https://shiyunhao.github.io/react-yiji/",
   "scripts": {
     "start": "set PORT=3006 && react-scripts start",
     "build": "react-scripts build",
