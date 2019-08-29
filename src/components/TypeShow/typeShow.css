@@ -1,7 +1,7 @@
 .TypeShow {
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height: 100vh;
 }
 .TypeShow > div:first-child {
   background-size: cover;
@@ -21,8 +21,8 @@
   background-position: center;
   flex-grow: 1;
   overflow-y: auto;
-  height: 80vh;
-  padding-bottom: 8vh;
+  /* height: 80vh; */
+  padding-bottom: 7vh;
 }
 .TypeShow .nothing {
   display: flex;

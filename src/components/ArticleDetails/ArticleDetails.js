@@ -194,10 +194,6 @@ class ArticleDetails extends Component {
               onClick={this.changeShowMap}
               className="iconfont icon-zuo"
             ></span>
-            <img
-              src="https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/ditu.jpg"
-              alt=""
-            />
           </div>
           <div
             className="dark"

@@ -123,15 +123,15 @@
   flex-grow: 1;
 }
 .OwnMessage .own-footer > div:last-child > div {
-  padding: 5px;
+  margin: 5px;
   width: 50%;
-  margin-right: 0;
   background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User_07.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .OwnMessage .own-footer > div:last-child > div:last-child {
+  margin-left: 0;
   background-image: url("https://dev.tencent.com/u/shiyunhao/p/tupian/git/raw/master/User_09.png");
 }
 
