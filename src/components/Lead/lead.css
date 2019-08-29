@@ -85,11 +85,7 @@
 .Lead .swiper-slide:last-child > div > div:last-child span + span {
   border-right: 1px solid #ccc;
 }
-.Lead .swiper-slide:nth-child(5) {
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-}
+
 .Lead .swiper-slide:nth-child(5) > div {
   position: relative;
   top: 70%;
